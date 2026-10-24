@@ -1,0 +1,10 @@
+{
+  "name": "genpark-json-pointer-patch-delta-skill",
+  "version": "1.0.1",
+  "description": "RFC 6901 / RFC 6902 compliant JSON Pointer and JSON Patch delta computation engine for incremental state sync",
+  "tools": [
+    "resolve_pointer",
+    "compute_patch",
+    "apply_patch"
+  ]
+}
