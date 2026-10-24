@@ -1,0 +1,7 @@
+name: genpark-json-pointer-patch-delta-skill
+description: RFC 6901 / RFC 6902 compliant JSON Pointer and JSON Patch delta computation engine for incremental state sync
+version: 1.0.1
+entrypoint: mcp_server.py
+command: python
+args:
+  - mcp_server.py
